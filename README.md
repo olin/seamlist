@@ -1,19 +1,16 @@
-WHAT IS IT?
-===========
+# Seamlist
 
-Seamlist aims to provide a web interface to search through old messages.
+Easy Mailman subscription interface.
 
-WHY?
-====
+## Environment
 
-Searching through mailing lists is annoying.
+Heroku with the MongoLab add-in.
 
-At Olin, we use Mailman, and we have to download the archives in order to find responses to old emails.
-With seamlist, we won't have to.
+Remote (production):
 
-THE TECH
-=========
+*  MONGOLAB_URI - Set by the MongoLab Heroku add-in
+*  FLASK_SESSION_KEY - unique key for encoding browser sessions
 
-- python
-- postgresSQL
-- jQuery
+Local (development):
+
+*  FWOLIN_EMAIL - Email address to test as.
