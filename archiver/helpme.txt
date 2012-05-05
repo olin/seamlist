@@ -1,0 +1,3100 @@
+From Derek.Redfern at students.olin.edu  Wed Feb  1 02:09:51 2012
+From: Derek.Redfern at students.olin.edu (Derek Redfern)
+Date: Wed, 1 Feb 2012 02:09:51 -0500
+Subject: [Helpme] Resolved:  Blank CD
+In-Reply-To: <1328066962.2539.11.camel@ToothofTime>
+References: <1328066962.2539.11.camel@ToothofTime>
+Message-ID: <86451979-87FB-487B-A10E-556E4B7283E3@students.olin.edu>
+
+
+
+On Jan 31, 2012, at 22:29, "Derek Redfern" <Derek.Redfern at students.olin.edu> wrote:
+
+> I need a blank CD. Can compensate in ramen, Mtn Dew, or money!
+> _______________________________________________
+> Helpme mailing list
+> Helpme at lists.olin.edu
+> https://lists.olin.edu/mailman/listinfo/helpme
+
+From Aaron.Greenberg at students.olin.edu  Wed Feb  1 00:38:18 2012
+From: Aaron.Greenberg at students.olin.edu (Aaron J. Greenberg)
+Date: Wed, 1 Feb 2012 00:38:18 -0500
+Subject: [Helpme] Dell Support Abroad
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A7E9@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A7E9EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+The general consensus is "yes." More information is available at http://it.=
+olin.edu/documents/General/Dell_Offsite_Repair.pdf.
+
+Thanks very much to Ken, Rachel, Sarah, and Jon.
+
+From: Aaron J. Greenberg
+Sent: Wednesday, February 01, 2012 2:08 AM
+To: 'helpme at lists.olin.edu'
+Subject: Dell Support Abroad
+
+Hey everyone,
+
+What's the protocol for Dell support in a foreign country (like Hong Kong)?=
+ Do we still have Gold Support? How can I get my computer serviced?
+
+Thanks,
+Aaron
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A7E9EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span style=3D'c=
+olor:#1F497D'>The general consensus is &#8220;yes.&#8221; More information =
+is available at </span><span style=3D'font-size:12.0pt;font-family:"Times N=
+ew Roman","serif"'><a href=3D"http://it.olin.edu/documents/General/Dell_Off=
+site_Repair.pdf">http://it.olin.edu/documents/General/Dell_Offsite_Repair.p=
+df</a>.<o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'font-size:=
+12.0pt;font-family:"Times New Roman","serif"'><o:p>&nbsp;</o:p></span></p><=
+p class=3DMsoNormal><span style=3D'color:#1F497D'>Thanks very much to Ken, =
+Rachel, Sarah, and Jon.<o:p></o:p></span></p><p class=3DMsoNormal><span sty=
+le=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div style=3D'border:=
+none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in 0in 0in'><p class=3DM=
+soNormal><b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-seri=
+f"'>From:</span></b><span style=3D'font-size:10.0pt;font-family:"Tahoma","s=
+ans-serif"'> Aaron J. Greenberg <br><b>Sent:</b> Wednesday, February 01, 20=
+12 2:08 AM<br><b>To:</b> 'helpme at lists.olin.edu'<br><b>Subject:</b> Dell Su=
+pport Abroad<o:p></o:p></span></p></div></div><p class=3DMsoNormal><o:p>&nb=
+sp;</o:p></p><p class=3DMsoNormal>Hey everyone,<o:p></o:p></p><p class=3DMs=
+oNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>What&#8217;s the protocol=
+ for Dell support in a foreign country (like Hong Kong)? Do we still have G=
+old Support? How can I get my computer serviced?<o:p></o:p></p><p class=3DM=
+soNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Thanks,<o:p></o:p></p><p=
+ class=3DMsoNormal>Aaron<o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A7E9EXVS01olinedu_--
+
+From Yunjie.Lu at students.olin.edu  Wed Feb  1 10:18:58 2012
+From: Yunjie.Lu at students.olin.edu (Yunjie Lu)
+Date: Wed, 1 Feb 2012 10:18:58 -0500
+Subject: [Helpme] Ride to & from Eliot?
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A887@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A887EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Dear Helpers,
+
+Three of us are going into Boston today. Can anyone drive us  to Eliot befo=
+re lunch and pick us up around 5:30? We will pay. Thanks!
+
+Hannah, Eva, Sue
+
+
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A887EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span style=3D'f=
+ont-size:10.0pt;font-family:"Tahoma","sans-serif"'>Dear Helpers,<o:p></o:p>=
+</span></p><p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family=
+:"Tahoma","sans-serif"'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><s=
+pan style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>Three of u=
+s are going into Boston today. Can anyone drive us&nbsp; to Eliot before lu=
+nch and pick us up around 5:30? We will pay. Thanks!<o:p></o:p></span></p><=
+p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Tahoma","s=
+ans-serif"'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span style=3D=
+'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>Hannah, Eva, Sue</span=
+><span style=3D'font-size:10.0pt;font-family:"Calibri","sans-serif";color:#=
+1F497D'><o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'font-size=
+:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p>=
+</span></p><p class=3DMsoNormal><span style=3D'font-size:10.0pt;font-family=
+:"Calibri","sans-serif";color:black'><o:p>&nbsp;</o:p></span></p></div></bo=
+dy></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A887EXVS01olinedu_--
+
+From Timothy.Raymond at students.olin.edu  Wed Feb  1 10:22:00 2012
+From: Timothy.Raymond at students.olin.edu (Timothy G. Raymond)
+Date: Wed, 1 Feb 2012 10:22:00 -0500
+Subject: [Helpme] [HELPYOU] Lost Earring Found Outside EH
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A88C@EXVS01.olin.edu>
+
+--_004_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A88CEXVS01olinedu_
+Content-Type: multipart/alternative;
+	boundary="_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A88CEXVS01olinedu_"
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A88CEXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+I found this earring outside of EH today.
+If it's yours, let me know.
+Tim
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A88CEXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>I found this ear=
+ring outside of EH today.&nbsp; <o:p></o:p></p><p class=3DMsoNormal>If it&#=
+8217;s yours, let me know.<o:p></o:p></p><p class=3DMsoNormal>Tim<o:p></o:p=
+></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A88CEXVS01olinedu_--
+
+--_004_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A88CEXVS01olinedu_
+Content-Description: IMG00152-20120201-1013.jpg
+Content-Disposition: attachment; filename="IMG00152-20120201-1013.jpg";
+	size=318765; creation-date="Wed, 01 Feb 2012 15:21:03 GMT";
+	modification-date="Wed, 01 Feb 2012 15:21:03 GMT"
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+A non-text attachment was scrubbed...
+Name: IMG00152-20120201-1013.jpg
+Type: image/jpeg
+Size: 318765 bytes
+Desc: IMG00152-20120201-1013.jpg
+URL: <https://lists.olin.edu/mailman/private/helpme/attachments/20120201/b32612a7/attachment-0001.jpg>
+
+--_004_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A88CEXVS01olinedu_--
+
+From Yunjie.Lu at students.olin.edu  Wed Feb  1 10:24:38 2012
+From: Yunjie.Lu at students.olin.edu (Yunjie Lu)
+Date: Wed, 1 Feb 2012 10:24:38 -0500
+Subject: [Helpme] RESOLVED RE: Ride to & from Eliot?
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A890@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A890EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+From: helpme-bounces at lists.olin.edu [mailto:helpme-bounces at lists.olin.edu] =
+On Behalf Of Yunjie Lu
+Sent: Wednesday, February 01, 2012 10:19 AM
+To: helpme at lists.olin.edu
+Subject: [Helpme] Ride to & from Eliot?
+
+Dear Helpers,
+
+Three of us are going into Boston today. Can anyone drive us  to Eliot befo=
+re lunch and pick us up around 5:30? We will pay. Thanks!
+
+Hannah, Eva, Sue
+
+
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A890EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span style=3D'f=
+ont-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbs=
+p;</o:p></span></p><p class=3DMsoNormal><span style=3D'font-size:11.0pt;fon=
+t-family:"Calibri","sans-serif";color:#1F497D'><o:p>&nbsp;</o:p></span></p>=
+<div><div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt=
+ 0in 0in 0in'><p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-=
+family:"Tahoma","sans-serif"'>From:</span></b><span style=3D'font-size:10.0=
+pt;font-family:"Tahoma","sans-serif"'> helpme-bounces at lists.olin.edu [mailt=
+o:helpme-bounces at lists.olin.edu] <b>On Behalf Of </b>Yunjie Lu<br><b>Sent:<=
+/b> Wednesday, February 01, 2012 10:19 AM<br><b>To:</b> helpme at lists.olin.e=
+du<br><b>Subject:</b> [Helpme] Ride to &amp; from Eliot?<o:p></o:p></span><=
+/p></div></div><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNorm=
+al><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>Dear =
+Helpers,<o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'font-size=
+:10.0pt;font-family:"Tahoma","sans-serif"'><o:p>&nbsp;</o:p></span></p><p c=
+lass=3DMsoNormal><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans=
+-serif"'>Three of us are going into Boston today. Can anyone drive us&nbsp;=
+ to Eliot before lunch and pick us up around 5:30? We will pay. Thanks!<o:p=
+></o:p></span></p><p class=3DMsoNormal><span style=3D'font-size:10.0pt;font=
+-family:"Tahoma","sans-serif"'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNo=
+rmal><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>Han=
+nah, Eva, Sue</span><span style=3D'font-size:10.0pt;font-family:"Calibri","=
+sans-serif";color:#1F497D'><o:p></o:p></span></p><p class=3DMsoNormal><span=
+ style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D=
+'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span style=3D'font-size=
+:10.0pt;font-family:"Calibri","sans-serif";color:black'><o:p>&nbsp;</o:p></=
+span></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A890EXVS01olinedu_--
+
+From Erika.Swartz at students.olin.edu  Wed Feb  1 10:47:51 2012
+From: Erika.Swartz at students.olin.edu (Erika Swartz)
+Date: Wed, 1 Feb 2012 10:47:51 -0500
+Subject: [Helpme] Town Hall Meeting
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A8C6@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A8C6EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+I can't make the town hall meeting. Is anyone who's planning on going takin=
+g notes?  Would you mind sharing them with me?
+
+thanks!
+Erika
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A8C6EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>I can&#8217;t ma=
+ke the town hall meeting. Is anyone who&#8217;s planning on going taking no=
+tes?&nbsp; Would you mind sharing them with me? <o:p></o:p></p><p class=3DM=
+soNormal><br>thanks! <o:p></o:p></p><p class=3DMsoNormal>Erika <o:p></o:p><=
+/p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A8C6EXVS01olinedu_--
+
+From Kelsey.Breseman at students.olin.edu  Wed Feb  1 10:57:55 2012
+From: Kelsey.Breseman at students.olin.edu (Kelsey O. Breseman)
+Date: Wed, 1 Feb 2012 10:57:55 -0500
+Subject: [Helpme] Impact Forces
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A8E3@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A8E3EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hi Helpme,
+Anyone want to help my MatSci team remember basic physics?
+
+We're trying to remember how impact forces work.
+Say you drop something off of a cliff. It hits the ground with a force of t=
+he mass of the thing dropped times gravity.
+Then say you drop the same thing off of a bigger cliff. It hits the ground =
+with the EXACT SAME FORCE. Right?
+
+But isn't there something we're missing?
+
+Help us.
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A8E3EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><meta http-equiv=3DContent-Type content=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Hi Helpme,<o:p><=
+/o:p></p><p class=3DMsoNormal>Anyone want to help my MatSci team remember b=
+asic physics?<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p cl=
+ass=3DMsoNormal>We&#8217;re trying to remember how impact forces work.<o:p>=
+</o:p></p><p class=3DMsoNormal>Say you drop something off of a cliff. It hi=
+ts the ground with a force of the mass of the thing dropped times gravity.<=
+o:p></o:p></p><p class=3DMsoNormal>Then say you drop the same thing off of =
+a bigger cliff. It hits the ground with the EXACT SAME FORCE. Right?<o:p></=
+o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>But =
+isn&#8217;t there something we&#8217;re missing?<o:p></o:p></p><p class=3DM=
+soNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Help us.<o:p></o:p></p><=
+/div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A8E3EXVS01olinedu_--
+
+From Erika.Swartz at students.olin.edu  Wed Feb  1 10:58:57 2012
+From: Erika.Swartz at students.olin.edu (Erika Swartz)
+Date: Wed, 1 Feb 2012 10:58:57 -0500
+Subject: [Helpme] Town Hall Meeting
+In-Reply-To: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A8C6@EXVS01.olin.edu>
+References: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A8C6@EXVS01.olin.edu>
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A8EA@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A8EAEXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Resolved by the wonderful Caroline Condon. Notes will be sent to thinktank.
+
+From: helpme-bounces at lists.olin.edu [mailto:helpme-bounces at lists.olin.edu] =
+On Behalf Of Erika Swartz
+Sent: Wednesday, February 01, 2012 10:48 AM
+To: helpme at lists.olin.edu
+Subject: [Helpme] Town Hall Meeting
+
+I can't make the town hall meeting. Is anyone who's planning on going takin=
+g notes?  Would you mind sharing them with me?
+
+thanks!
+Erika
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A8EAEXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span style=3D'c=
+olor:#1F497D'>Resolved by the wonderful Caroline Condon. Notes will be sent=
+ to thinktank. <o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'co=
+lor:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div style=3D'border:none;bor=
+der-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in 0in 0in'><p class=3DMsoNormal=
+><b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From=
+:</span></b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-seri=
+f"'> helpme-bounces at lists.olin.edu [mailto:helpme-bounces at lists.olin.edu] <=
+b>On Behalf Of </b>Erika Swartz<br><b>Sent:</b> Wednesday, February 01, 201=
+2 10:48 AM<br><b>To:</b> helpme at lists.olin.edu<br><b>Subject:</b> [Helpme] =
+Town Hall Meeting<o:p></o:p></span></p></div></div><p class=3DMsoNormal><o:=
+p>&nbsp;</o:p></p><p class=3DMsoNormal>I can&#8217;t make the town hall mee=
+ting. Is anyone who&#8217;s planning on going taking notes?&nbsp; Would you=
+ mind sharing them with me? <o:p></o:p></p><p class=3DMsoNormal><br>thanks!=
+ <o:p></o:p></p><p class=3DMsoNormal>Erika <o:p></o:p></p></div></body></ht=
+ml>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A8EAEXVS01olinedu_--
+
+From Jeremy.Woo at students.olin.edu  Wed Feb  1 11:12:10 2012
+From: Jeremy.Woo at students.olin.edu (Jeremy Woo)
+Date: Wed, 1 Feb 2012 11:12:10 -0500
+Subject: [Helpme] Controls textbook
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A90B@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A90BEXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Does anyone have a copy I could buy or borrow?
+Feedback Control of Dynamic Systems by Franklin Powell and Emami
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A90BEXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><meta http-equiv=3DContent-Type content=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Does anyone have=
+ a copy I could buy or borrow?<o:p></o:p></p><p class=3DMsoNormal>Feedback =
+Control of Dynamic Systems by Franklin Powell and Emami<o:p></o:p></p></div=
+></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A90BEXVS01olinedu_--
+
+From Kelsey.Breseman at students.olin.edu  Wed Feb  1 11:35:42 2012
+From: Kelsey.Breseman at students.olin.edu (Kelsey O. Breseman)
+Date: Wed, 1 Feb 2012 11:35:42 -0500
+Subject: [Helpme] RESOLVED:  Impact Forces
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A93E@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A93EEXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Thanks Kiefer, Ashley, Naomi, and Jon!
+Kiefer's explanation below.
+
+From: Kiefer Hicks [mailto:kiefer.hicks at gmail.com]
+Sent: Wednesday, February 01, 2012 11:21 AM
+To: Kelsey O. Breseman
+Subject: Re: [Helpme] Impact Forces
+
+There is something you're missing.
+
+Force =3D mass * acceleration.
+
+Mass is a constant, so we can ignore it.
+
+Acceleration is the rate of change in velocity per time.  When something hi=
+ts the ground, it goes from moving quickly to not moving in a very short pe=
+riod of time.  To estimate what the force is, you need an estimate of how l=
+ong it takes to slow down to zero.
+
+Imagine a brick sitting on your hand, possibly not comfortable, but not pai=
+nful.  However dropping a brick on your hand would be painful, because the =
+forces at impact from gravitational drop are typically orders of magnitude =
+higher than the mass * g.
+
+--KOH
+On Wed, Feb 1, 2012 at 10:57 AM, Kelsey O. Breseman <Kelsey.Breseman at studen=
+ts.olin.edu<mailto:Kelsey.Breseman at students.olin.edu>> wrote:
+Hi Helpme,
+Anyone want to help my MatSci team remember basic physics?
+
+We're trying to remember how impact forces work.
+Say you drop something off of a cliff. It hits the ground with a force of t=
+he mass of the thing dropped times gravity.
+Then say you drop the same thing off of a bigger cliff. It hits the ground =
+with the EXACT SAME FORCE. Right?
+
+But isn't there something we're missing?
+
+Help us.
+
+_______________________________________________
+Helpme mailing list
+Helpme at lists.olin.edu<mailto:Helpme at lists.olin.edu>
+https://lists.olin.edu/mailman/listinfo/helpme
+
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A93EEXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span style=3D'f=
+ont-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'>Thanks Ki=
+efer, Ashley, Naomi, and Jon!<o:p></o:p></span></p><p class=3DMsoNormal><sp=
+an style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F49=
+7D'>Kiefer&#8217;s explanation below.<o:p></o:p></span></p><p class=3DMsoNo=
+rmal><span style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";col=
+or:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><b><span style=
+=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span></b><sp=
+an style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> Kiefer Hic=
+ks [mailto:kiefer.hicks at gmail.com] <br><b>Sent:</b> Wednesday, February 01,=
+ 2012 11:21 AM<br><b>To:</b> Kelsey O. Breseman<br><b>Subject:</b> Re: [Hel=
+pme] Impact Forces<o:p></o:p></span></p><p class=3DMsoNormal><o:p>&nbsp;</o=
+:p></p><p class=3DMsoNormal style=3D'margin-bottom:12.0pt'>There is somethi=
+ng you're missing.<br><br>Force =3D mass * acceleration.<br><br>Mass is a c=
+onstant, so we can ignore it.<br><br>Acceleration is the rate of change in =
+velocity per time.&nbsp; When something hits the ground, it goes from movin=
+g quickly to not moving in a very short period of time.&nbsp; To estimate w=
+hat the force is, you need an estimate of how long it takes to slow down to=
+ zero.<br><br>Imagine a brick sitting on your hand, possibly not comfortabl=
+e, but not painful.&nbsp; However dropping a brick on your hand would be pa=
+inful, because the forces at impact from gravitational drop are typically o=
+rders of magnitude higher than the mass * g.<br><br>--KOH<o:p></o:p></p><di=
+v><p class=3DMsoNormal>On Wed, Feb 1, 2012 at 10:57 AM, Kelsey O. Breseman =
+&lt;<a href=3D"mailto:Kelsey.Breseman at students.olin.edu">Kelsey.Breseman at st=
+udents.olin.edu</a>&gt; wrote:<o:p></o:p></p><div><div><p class=3DMsoNormal=
+ style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Hi Helpme,<o:=
+p></o:p></p><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margi=
+n-bottom-alt:auto'>Anyone want to help my MatSci team remember basic physic=
+s?<o:p></o:p></p><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-=
+margin-bottom-alt:auto'>&nbsp;<o:p></o:p></p><p class=3DMsoNormal style=3D'=
+mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>We&#8217;re trying to r=
+emember how impact forces work.<o:p></o:p></p><p class=3DMsoNormal style=3D=
+'mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>Say you drop something=
+ off of a cliff. It hits the ground with a force of the mass of the thing d=
+ropped times gravity.<o:p></o:p></p><p class=3DMsoNormal style=3D'mso-margi=
+n-top-alt:auto;mso-margin-bottom-alt:auto'>Then say you drop the same thing=
+ off of a bigger cliff. It hits the ground with the EXACT SAME FORCE. Right=
+?<o:p></o:p></p><p class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-m=
+argin-bottom-alt:auto'>&nbsp;<o:p></o:p></p><p class=3DMsoNormal style=3D'm=
+so-margin-top-alt:auto;mso-margin-bottom-alt:auto'>But isn&#8217;t there so=
+mething we&#8217;re missing?<o:p></o:p></p><p class=3DMsoNormal style=3D'ms=
+o-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;<o:p></o:p></p><p c=
+lass=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-alt:aut=
+o'>Help us.<o:p></o:p></p></div></div><p class=3DMsoNormal style=3D'margin-=
+bottom:12.0pt'><br>_______________________________________________<br>Helpm=
+e mailing list<br><a href=3D"mailto:Helpme at lists.olin.edu">Helpme at lists.oli=
+n.edu</a><br><a href=3D"https://lists.olin.edu/mailman/listinfo/helpme" tar=
+get=3D"_blank">https://lists.olin.edu/mailman/listinfo/helpme</a><o:p></o:p=
+></p></div><p class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A93EEXVS01olinedu_--
+
+From Kevin.OToole at students.olin.edu  Wed Feb  1 12:08:33 2012
+From: Kevin.OToole at students.olin.edu (Kevin O'Toole)
+Date: Wed, 1 Feb 2012 12:08:33 -0500
+Subject: [Helpme] Direct Deposit
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A97F@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A97FEXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+I'm setting up direct deposit today...I've got my checkbook and a copy of m=
+y birth certificate, but I've forgotten the name of whomever I need to talk=
+ to. Who is it?
+
+Thanks,
+Kevin
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A97FEXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>I&#8217;m settin=
+g up direct deposit today&#8230;I&#8217;ve got my checkbook and a copy of m=
+y birth certificate, but I&#8217;ve forgotten the name of whomever I need t=
+o talk to. Who is it?<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p><=
+/p><p class=3DMsoNormal>Thanks,<o:p></o:p></p><p class=3DMsoNormal>Kevin<o:=
+p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A97FEXVS01olinedu_--
+
+From Kevin.OToole at students.olin.edu  Wed Feb  1 12:51:44 2012
+From: Kevin.OToole at students.olin.edu (Kevin O'Toole)
+Date: Wed, 1 Feb 2012 12:51:44 -0500
+Subject: [Helpme] Direct Deposit
+In-Reply-To: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A97F@EXVS01.olin.edu>
+References: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A97F@EXVS01.olin.edu>
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A9B9@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A9B9EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Resolved: Elaine Drobnis
+
+Thank you all!
+
+From: helpme-bounces at lists.olin.edu [mailto:helpme-bounces at lists.olin.edu] =
+On Behalf Of Kevin O'Toole
+Sent: Wednesday, February 01, 2012 12:09 PM
+To: helpme at lists.olin.edu
+Subject: [Helpme] Direct Deposit
+
+I'm setting up direct deposit today...I've got my checkbook and a copy of m=
+y birth certificate, but I've forgotten the name of whomever I need to talk=
+ to. Who is it?
+
+Thanks,
+Kevin
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A9B9EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><b><span style=
+=3D'color:#1F497D'>Resolved: Elaine Drobnis<o:p></o:p></span></b></p><p cla=
+ss=3DMsoNormal><b><span style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></b=
+></p><p class=3DMsoNormal><b><span style=3D'color:#1F497D'>Thank you all!<o=
+:p></o:p></span></b></p><p class=3DMsoNormal><span style=3D'color:#1F497D'>=
+<o:p>&nbsp;</o:p></span></p><div><div style=3D'border:none;border-top:solid=
+ #B5C4DF 1.0pt;padding:3.0pt 0in 0in 0in'><p class=3DMsoNormal><b><span sty=
+le=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span></b><=
+span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> helpme-b=
+ounces at lists.olin.edu [mailto:helpme-bounces at lists.olin.edu] <b>On Behalf O=
+f </b>Kevin O'Toole<br><b>Sent:</b> Wednesday, February 01, 2012 12:09 PM<b=
+r><b>To:</b> helpme at lists.olin.edu<br><b>Subject:</b> [Helpme] Direct Depos=
+it<o:p></o:p></span></p></div></div><p class=3DMsoNormal><o:p>&nbsp;</o:p><=
+/p><p class=3DMsoNormal>I&#8217;m setting up direct deposit today&#8230;I&#=
+8217;ve got my checkbook and a copy of my birth certificate, but I&#8217;ve=
+ forgotten the name of whomever I need to talk to. Who is it?<o:p></o:p></p=
+><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Thanks,<o:p=
+></o:p></p><p class=3DMsoNormal>Kevin<o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A9B9EXVS01olinedu_--
+
+From Michael.Heyns at students.olin.edu  Wed Feb  1 13:47:28 2012
+From: Michael.Heyns at students.olin.edu (Michael G. Heyns)
+Date: Wed, 1 Feb 2012 13:47:28 -0500
+Subject: [Helpme] Do you go to The House of Blues often?
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AA2C@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AA2CEXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+If so can I chat with you about seating at some point soon? I just have a c=
+ouple quick questions.
+
+Thanks!
+
+Michael
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AA2CEXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>If so can I chat=
+ with you about seating at some point soon? I just have a couple quick ques=
+tions. <o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3D=
+MsoNormal>Thanks!<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><=
+p class=3DMsoNormal>Michael<o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AA2CEXVS01olinedu_--
+
+From Helen.Wang at students.olin.edu  Wed Feb  1 14:01:41 2012
+From: Helen.Wang at students.olin.edu (Helen Wang)
+Date: Wed, 1 Feb 2012 14:01:41 -0500
+Subject: [Helpme] Mechsolids Books
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AA54@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AA54EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hello!
+
+I posted on Mr. Wiki last week, but to no avail. If anyone still has either=
+ of the Mechsolids textbooks I could buy/borrow, please let me know :D
+
+Statics, Analysis and Design of Systems in Equilibrium (Revised Ed.), S.D. =
+Sheppard and B.H. Tongue, Wiley.
+Mechanics of Materials: An Integrated Learning System (1st or 2nd Ed.), T. =
+Philpot, Wiley.
+
+Thanks in advance,
+Helen
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AA54EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><meta http-equiv=3DContent-Type content=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:PMingLiU;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:PMingLiU;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@PMingLiU";
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Hello!<o:p></o:p=
+></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>I poste=
+d on Mr. Wiki last week, but to no avail. If anyone still has either of the=
+ Mechsolids textbooks I could buy/borrow, please let me know :D<o:p></o:p><=
+/p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><i>Static=
+s, Analysis and Design of Systems in Equilibrium (Revised Ed.)</i>, S.D. Sh=
+eppard and B.H. Tongue, Wiley.<o:p></o:p></p><p class=3DMsoNormal><i>Mechan=
+ics of Materials: An Integrated Learning System (1<sup>st</sup> or 2<sup>nd=
+</sup> Ed.)</i>, T. Philpot, Wiley.<o:p></o:p></p><p class=3DMsoNormal><o:p=
+>&nbsp;</o:p></p><p class=3DMsoNormal>Thanks in advance,<o:p></o:p></p><p c=
+lass=3DMsoNormal>Helen<o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AA54EXVS01olinedu_--
+
+From Michael.Sullivan at students.olin.edu  Wed Feb  1 14:02:21 2012
+From: Michael.Sullivan at students.olin.edu (Michael T. Sullivan)
+Date: Wed, 1 Feb 2012 14:02:21 -0500
+Subject: [Helpme] 1 AAA Battery
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AA56@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AA56EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Does anyone have 1 AAA battery I could have? I can trade it for 1 or 2 AA b=
+atteries if you so want.
+
+EH preferred. But Anywhere is ok.
+
+Thanks,
+mike
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AA56EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Does anyone have=
+ 1 AAA battery I could have? I can trade it for 1 or 2 AA batteries if you =
+so want.<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=
+=3DMsoNormal>EH preferred. But Anywhere is ok.<o:p></o:p></p><p class=3DMso=
+Normal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Thanks,<o:p></o:p></p><p c=
+lass=3DMsoNormal>mike<o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AA56EXVS01olinedu_--
+
+From Morgan.Lavine at students.olin.edu  Wed Feb  1 14:56:27 2012
+From: Morgan.Lavine at students.olin.edu (Morgan Lavine)
+Date: Wed, 1 Feb 2012 14:56:27 -0500
+Subject: [Helpme] Adding a printer on an off-domain computer?
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4CE4EC98@EXVS01.olin.edu>
+
+Is it possible? If so, how? I'm having trouble; it doesn't find any by scanning (obviously), and when I put in the printer name it still doesn't see it. Thanks!
+
+From Morgan.Lavine at students.olin.edu  Wed Feb  1 15:21:40 2012
+From: Morgan.Lavine at students.olin.edu (Morgan Lavine)
+Date: Wed, 1 Feb 2012 15:21:40 -0500
+Subject: [Helpme] Adding a printer on an off-domain computer?
+In-Reply-To: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4CE4EC98@EXVS01.olin.edu>
+References: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4CE4EC98@EXVS01.olin.edu>
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4CE4EC99@EXVS01.olin.edu>
+
+Nevermind, I was mistyping the IP but otherwise doing it right. For future reference:
+1. Add a printer via IP, go to the printer, IT put the IPs on a label
+2. It will ask for a driver, give you a list, the printer wont be on the list probably, find drivers online by googling, download, and add via "CD" (the drivers you just downloaded).
+3. All set
+
+There might be a simpler way, but this worked too.
+________________________________________
+From: helpme-bounces at lists.olin.edu [helpme-bounces at lists.olin.edu] On Behalf Of Morgan Lavine
+Sent: 01 February 2012 14:56
+To: helpme at lists.olin.edu
+Subject: [Helpme] Adding a printer on an off-domain computer?
+
+Is it possible? If so, how? I'm having trouble; it doesn't find any by scanning (obviously), and when I put in the printer name it still doesn't see it. Thanks!
+_______________________________________________
+Helpme mailing list
+Helpme at lists.olin.edu
+https://lists.olin.edu/mailman/listinfo/helpme
+
+From Lucas.Hill at students.olin.edu  Wed Feb  1 15:30:00 2012
+From: Lucas.Hill at students.olin.edu (Lucas P. Hill)
+Date: Wed, 1 Feb 2012 15:30:00 -0500
+Subject: [Helpme] Birthday Card
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB03@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB03EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Does anyone have a Birthday card (Envelope not necessary, but nice) that I =
+could buy off them?
+
+-Luke
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB03EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+@font-face
+	{font-family:"MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@MS Mincho";
+	panose-1:2 2 6 9 4 2 5 8 3 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Does anyone have=
+ a Birthday card (Envelope not necessary, but nice) that I could buy off th=
+em?<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoN=
+ormal>-Luke<o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB03EXVS01olinedu_--
+
+From Jonathan.McKay at students.olin.edu  Wed Feb  1 15:36:48 2012
+From: Jonathan.McKay at students.olin.edu (Jonathan A. McKay)
+Date: Wed, 1 Feb 2012 15:36:48 -0500
+Subject: [Helpme] Lost Durometer
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB11@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB11EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hey Helpme [thieves],
+   Did you take the durometer from the Mat Sci lab and forget to return it?=
+ We need it back. We need it BACK! You heard me! Bring it back!!!
+
+Thanks,
+Jon
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB11EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:0 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Hey Helpme [thie=
+ves], <o:p></o:p></p><p class=3DMsoNormal>&nbsp;&nbsp;&nbsp;Did you take th=
+e durometer from the Mat Sci lab and forget to return it? We need it back. =
+We need it BACK! You heard me! Bring it back!!!<o:p></o:p></p><p class=3DMs=
+oNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Thanks,<o:p></o:p></p><p =
+class=3DMsoNormal>Jon<o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB11EXVS01olinedu_--
+
+From wcdolphin at gmail.com  Wed Feb  1 15:36:58 2012
+From: wcdolphin at gmail.com (Cory Dolphin)
+Date: Wed, 1 Feb 2012 15:36:58 -0500
+Subject: [Helpme] Adding a printer on an off-domain computer?
+In-Reply-To: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4CE4EC99@EXVS01.olin.edu>
+References: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4CE4EC98@EXVS01.olin.edu>
+	<DA80C3E6C10BE94E8FCACEB239C2FEE4CA4CE4EC99@EXVS01.olin.edu>
+Message-ID: <CAOwq=TvUjZRCZKzDyXtTLFAP20+EZYsBZ_n8Xxiwz7T-PHtTtw@mail.gmail.com>
+
+--0016e6d58faf805eb404b7ed0ac4
+Content-Type: text/plain; charset=ISO-8859-1
+
+For Windows:
+Alternatively, browse to \\printvs01 where you can see a full listing of
+all printers on the network after logging in with your network credentials.
+You can click and add any printer directly from there.
+
+Cory
+
+On Wed, Feb 1, 2012 at 3:21 PM, Morgan Lavine <
+Morgan.Lavine at students.olin.edu> wrote:
+
+> Nevermind, I was mistyping the IP but otherwise doing it right. For future
+> reference:
+> 1. Add a printer via IP, go to the printer, IT put the IPs on a label
+> 2. It will ask for a driver, give you a list, the printer wont be on the
+> list probably, find drivers online by googling, download, and add via "CD"
+> (the drivers you just downloaded).
+> 3. All set
+>
+> There might be a simpler way, but this worked too.
+> ________________________________________
+> From: helpme-bounces at lists.olin.edu [helpme-bounces at lists.olin.edu] On
+> Behalf Of Morgan Lavine
+> Sent: 01 February 2012 14:56
+> To: helpme at lists.olin.edu
+> Subject: [Helpme] Adding a printer on an off-domain computer?
+>
+> Is it possible? If so, how? I'm having trouble; it doesn't find any by
+> scanning (obviously), and when I put in the printer name it still doesn't
+> see it. Thanks!
+> _______________________________________________
+> Helpme mailing list
+> Helpme at lists.olin.edu
+> https://lists.olin.edu/mailman/listinfo/helpme
+> _______________________________________________
+> Helpme mailing list
+> Helpme at lists.olin.edu
+> https://lists.olin.edu/mailman/listinfo/helpme
+>
+
+--0016e6d58faf805eb404b7ed0ac4
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div>For Windows:</div>Alternatively, browse to=A0\\printvs01 where you can=
+ see a full listing of all printers on the network after logging in with yo=
+ur network credentials. You can click and add any printer directly from the=
+re.<div>
+<br></div><div>Cory</div><div><br><div class=3D"gmail_quote">On Wed, Feb 1,=
+ 2012 at 3:21 PM, Morgan Lavine <span dir=3D"ltr">&lt;<a href=3D"mailto:Mor=
+gan.Lavine at students.olin.edu">Morgan.Lavine at students.olin.edu</a>&gt;</span=
+> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Nevermind, I was mistyping the IP but otherw=
+ise doing it right. For future reference:<br>
+1. Add a printer via IP, go to the printer, IT put the IPs on a label<br>
+2. It will ask for a driver, give you a list, the printer wont be on the li=
+st probably, find drivers online by googling, download, and add via &quot;C=
+D&quot; (the drivers you just downloaded).<br>
+3. All set<br>
+<br>
+There might be a simpler way, but this worked too.<br>
+________________________________________<br>
+From: <a href=3D"mailto:helpme-bounces at lists.olin.edu">helpme-bounces at lists=
+.olin.edu</a> [<a href=3D"mailto:helpme-bounces at lists.olin.edu">helpme-boun=
+ces at lists.olin.edu</a>] On Behalf Of Morgan Lavine<br>
+Sent: 01 February 2012 14:56<br>
+To: <a href=3D"mailto:helpme at lists.olin.edu">helpme at lists.olin.edu</a><br>
+Subject: [Helpme] Adding a printer on an off-domain computer?<br>
+<div class=3D"HOEnZb"><div class=3D"h5"><br>
+Is it possible? If so, how? I&#39;m having trouble; it doesn&#39;t find any=
+ by scanning (obviously), and when I put in the printer name it still doesn=
+&#39;t see it. Thanks!<br>
+_______________________________________________<br>
+Helpme mailing list<br>
+<a href=3D"mailto:Helpme at lists.olin.edu">Helpme at lists.olin.edu</a><br>
+<a href=3D"https://lists.olin.edu/mailman/listinfo/helpme" target=3D"_blank=
+">https://lists.olin.edu/mailman/listinfo/helpme</a><br>
+_______________________________________________<br>
+Helpme mailing list<br>
+<a href=3D"mailto:Helpme at lists.olin.edu">Helpme at lists.olin.edu</a><br>
+<a href=3D"https://lists.olin.edu/mailman/listinfo/helpme" target=3D"_blank=
+">https://lists.olin.edu/mailman/listinfo/helpme</a><br>
+</div></div></blockquote></div><br></div>
+
+--0016e6d58faf805eb404b7ed0ac4--
+
+From Ananya.Kejriwal at students.olin.edu  Wed Feb  1 15:37:18 2012
+From: Ananya.Kejriwal at students.olin.edu (Ananya Kejriwal)
+Date: Wed, 1 Feb 2012 15:37:18 -0500
+Subject: [Helpme] Snow pants
+Message-ID: <6B263974-BBC7-458B-9063-51E5E2049578@students.olin.edu>
+
+Does anyone have a pair of snow pants my friend could borrow?They will be returned clean (with a present).
+
+Thank you.
+
+
+
+From Joshua.Furnish at students.olin.edu  Wed Feb  1 15:45:17 2012
+From: Joshua.Furnish at students.olin.edu (Joshua Furnish)
+Date: Wed, 1 Feb 2012 15:45:17 -0500
+Subject: [Helpme] 'DFMA'
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB27@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB27EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+What is that an acronym for?
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB27EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>What is that an =
+acronym for?<o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB27EXVS01olinedu_--
+
+From Joshua.Furnish at students.olin.edu  Wed Feb  1 15:46:45 2012
+From: Joshua.Furnish at students.olin.edu (Joshua Furnish)
+Date: Wed, 1 Feb 2012 15:46:45 -0500
+Subject: [Helpme] Rezzolved: 'DFMA'
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB29@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB29EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+From: Michael G. Heyns
+Sent: Wednesday, February 01, 2012 3:45 PM
+To: Joshua Furnish
+Subject: RE: 'DFMA'
+
+Design for Manufacturing and Assembly.
+
+From: helpme-bounces at lists.olin.edu<mailto:helpme-bounces at lists.olin.edu> [=
+mailto:helpme-bounces at lists.olin.edu]<mailto:[mailto:helpme-bounces at lists.o=
+lin.edu]> On Behalf Of Joshua Furnish
+Sent: Wednesday, February 01, 2012 3:45 PM
+To: helpme at lists.olin.edu<mailto:helpme at lists.olin.edu>
+Subject: [Helpme] 'DFMA'
+
+What is that an acronym for?
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB29EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span style=3D'c=
+olor:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span style=
+=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div style=3D'border:no=
+ne;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in 0in 0in'><p class=3DMso=
+Normal><b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"=
+'>From:</span></b><span style=3D'font-size:10.0pt;font-family:"Tahoma","san=
+s-serif"'> Michael G. Heyns <br><b>Sent:</b> Wednesday, February 01, 2012 3=
+:45 PM<br><b>To:</b> Joshua Furnish<br><b>Subject:</b> RE: 'DFMA'<o:p></o:p=
+></span></p></div></div><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=
+=3DMsoNormal><span style=3D'color:#1F497D'>Design for Manufacturing and Ass=
+embly. <o:p></o:p></span></p><p class=3DMsoNormal><span style=3D'color:#1F4=
+97D'><o:p>&nbsp;</o:p></span></p><div><div style=3D'border:none;border-top:=
+solid #B5C4DF 1.0pt;padding:3.0pt 0in 0in 0in'><p class=3DMsoNormal><b><spa=
+n style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span>=
+</b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> <a =
+href=3D"mailto:helpme-bounces at lists.olin.edu">helpme-bounces at lists.olin.edu=
+</a> <a href=3D"mailto:[mailto:helpme-bounces at lists.olin.edu]">[mailto:help=
+me-bounces at lists.olin.edu]</a> <b>On Behalf Of </b>Joshua Furnish<br><b>Sen=
+t:</b> Wednesday, February 01, 2012 3:45 PM<br><b>To:</b> <a href=3D"mailto=
+:helpme at lists.olin.edu">helpme at lists.olin.edu</a><br><b>Subject:</b> [Helpm=
+e] 'DFMA'<o:p></o:p></span></p></div></div><p class=3DMsoNormal><o:p>&nbsp;=
+</o:p></p><p class=3DMsoNormal>What is that an acronym for?<o:p></o:p></p><=
+/div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AB29EXVS01olinedu_--
+
+From Michael.Sullivan at students.olin.edu  Wed Feb  1 17:09:37 2012
+From: Michael.Sullivan at students.olin.edu (Michael T. Sullivan)
+Date: Wed, 1 Feb 2012 17:09:37 -0500
+Subject: [Helpme] Thermodynamics Textbook for HW
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27ABDE@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27ABDEEXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Helpme,
+
+To those who are in Thermodynamics, can I borrow the textbook from you for =
+a few minutes? I need to scan or read the tables in the back, as my textboo=
+k hasn't arrived from Amazon yet...
+
+Thanks,
+Mike
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27ABDEEXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><meta http-equiv=3DContent-Type content=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Helpme,<o:p></o:=
+p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>To tho=
+se who are in Thermodynamics, can I borrow the textbook from you for a few =
+minutes? I need to scan or read the tables in the back, as my textbook hasn=
+&#8217;t arrived from Amazon yet&#8230;<o:p></o:p></p><p class=3DMsoNormal>=
+<o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Thanks,<o:p></o:p></p><p class=3D=
+MsoNormal>Mike<o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27ABDEEXVS01olinedu_--
+
+From Nicholas.Eyre at students.olin.edu  Wed Feb  1 17:26:56 2012
+From: Nicholas.Eyre at students.olin.edu (Nicholas Eyre)
+Date: Wed, 1 Feb 2012 17:26:56 -0500
+Subject: [Helpme] Packing Tape
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27ABF7@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27ABF7EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Anyone have a little clear packing tape I can use?  WH Preferred.
+
+Thanks,
+Nick
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27ABF7EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Anyone have a li=
+ttle clear packing tape I can use?&nbsp; WH Preferred.<o:p></o:p></p><p cla=
+ss=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Thanks,<o:p></o:p>=
+</p><p class=3DMsoNormal>Nick<o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27ABF7EXVS01olinedu_--
+
+From Michael.Sullivan at students.olin.edu  Wed Feb  1 17:35:03 2012
+From: Michael.Sullivan at students.olin.edu (Michael T. Sullivan)
+Date: Wed, 1 Feb 2012 17:35:03 -0500
+Subject: [Helpme] Thermodynamics Textbook for HW
+In-Reply-To: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC0D@EXVS01.olin.edu>
+References: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27ABDE@EXVS01.olin.edu>
+	<DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC0D@EXVS01.olin.edu>
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC13@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC13EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Resolved!
+
+From: Nikolas Martelaro
+Sent: Wednesday, February 01, 2012 5:34 PM
+To: Michael T. Sullivan
+Subject: RE: Thermodynamics Textbook for HW
+
+Here is the high quality pdf of the entire book
+
+\\fsvs01\Public\KnightsWhoSayNi<file:///\\fsvs01\Public\KnightsWhoSayNi>
+
+
+-          Nik
+
+From: helpme-bounces at lists.olin.edu [mailto:helpme-bounces at lists.olin.edu] =
+On Behalf Of Michael T. Sullivan
+Sent: Wednesday, February 01, 2012 5:10 PM
+To: helpme at lists.olin.edu
+Subject: [Helpme] Thermodynamics Textbook for HW
+
+Helpme,
+
+To those who are in Thermodynamics, can I borrow the textbook from you for =
+a few minutes? I need to scan or read the tables in the back, as my textboo=
+k hasn't arrived from Amazon yet...
+
+Thanks,
+Mike
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC13EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle19
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1476070205;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-580122116 2052592374 67698691 67698693 67698689 676=
+98691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:-;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span style=3D'c=
+olor:#1F497D'>Resolved!<o:p></o:p></span></p><p class=3DMsoNormal><span sty=
+le=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div style=3D'border:=
+none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in 0in 0in'><p class=3DM=
+soNormal><b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-seri=
+f"'>From:</span></b><span style=3D'font-size:10.0pt;font-family:"Tahoma","s=
+ans-serif"'> Nikolas Martelaro <br><b>Sent:</b> Wednesday, February 01, 201=
+2 5:34 PM<br><b>To:</b> Michael T. Sullivan<br><b>Subject:</b> RE: Thermody=
+namics Textbook for HW<o:p></o:p></span></p></div></div><p class=3DMsoNorma=
+l><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><span style=3D'color:#1F497D'>H=
+ere is the high quality pdf of the entire book<o:p></o:p></span></p><p clas=
+s=3DMsoNormal><span style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal><span style=3D'color:#1F497D'><a href=3D"file:///\\fsvs01=
+\Public\KnightsWhoSayNi">\\fsvs01\Public\KnightsWhoSayNi</a><o:p></o:p></sp=
+an></p><p class=3DMsoNormal><span style=3D'color:#1F497D'><o:p>&nbsp;</o:p>=
+</span></p><p class=3DMsoListParagraph style=3D'text-indent:-.25in;mso-list=
+:l0 level1 lfo2'><![if !supportLists]><span style=3D'color:#1F497D'><span s=
+tyle=3D'mso-list:Ignore'>-<span style=3D'font:7.0pt "Times New Roman"'>&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![=
+endif]><span style=3D'color:#1F497D'>Nik<o:p></o:p></span></p><p class=3DMs=
+oNormal><a name=3D"_MailEndCompose"></a><span style=3D'color:#1F497D'><o:p>=
+&nbsp;</o:p></span></p><div><div style=3D'border:none;border-top:solid #B5C=
+4DF 1.0pt;padding:3.0pt 0in 0in 0in'><p class=3DMsoNormal><b><span style=3D=
+'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>From:</span></b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> helpme-bounce=
+s at lists.olin.edu [mailto:helpme-bounces at lists.olin.edu] <b>On Behalf Of </b=
+>Michael T. Sullivan<br><b>Sent:</b> Wednesday, February 01, 2012 5:10 PM<b=
+r><b>To:</b> helpme at lists.olin.edu<br><b>Subject:</b> [Helpme] Thermodynami=
+cs Textbook for HW<o:p></o:p></span></p></div></div><p class=3DMsoNormal><o=
+:p>&nbsp;</o:p></p><p class=3DMsoNormal>Helpme,<o:p></o:p></p><p class=3DMs=
+oNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>To those who are in Therm=
+odynamics, can I borrow the textbook from you for a few minutes? I need to =
+scan or read the tables in the back, as my textbook hasn&#8217;t arrived fr=
+om Amazon yet&#8230;<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></=
+p><p class=3DMsoNormal>Thanks,<o:p></o:p></p><p class=3DMsoNormal>Mike<o:p>=
+</o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC13EXVS01olinedu_--
+
+From Kendall.Pletcher at students.olin.edu  Wed Feb  1 17:35:29 2012
+From: Kendall.Pletcher at students.olin.edu (Kendall E. Pletcher)
+Date: Wed, 1 Feb 2012 17:35:29 -0500
+Subject: [Helpme] dowloaded a language onto your computer?
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC15@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC15EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Does anyone know how to download a language for typing without having to pa=
+y for it? (I'm specifically looking for Arabic)
+
+Thanks!
+Kendall
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC15EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Does anyone know=
+ how to download a language for typing without having to pay for it? (I&#82=
+17;m specifically looking for Arabic)<o:p></o:p></p><p class=3DMsoNormal><o=
+:p>&nbsp;</o:p></p><p class=3DMsoNormal>Thanks!<o:p></o:p></p><p class=3DMs=
+oNormal>Kendall<o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC15EXVS01olinedu_--
+
+From Kendall.Pletcher at students.olin.edu  Wed Feb  1 17:51:18 2012
+From: Kendall.Pletcher at students.olin.edu (Kendall E. Pletcher)
+Date: Wed, 1 Feb 2012 17:51:18 -0500
+Subject: [Helpme] REsolved: dowloaded a language onto your computer?
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC4C@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC4CEXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Go to the control panel and add a keyboard in whichever language you want t=
+hen to change back and forth use the "language bar" on the lower right-hand=
+ side of the screen which should default to "EN" (for English)
+
+Thanks to Nick and Phillip!
+
+From: helpme-bounces at lists.olin.edu [mailto:helpme-bounces at lists.olin.edu] =
+On Behalf Of Kendall E. Pletcher
+Sent: Wednesday, February 01, 2012 5:35 PM
+To: helpme at lists.olin.edu
+Subject: [Helpme] dowloaded a language onto your computer?
+
+Does anyone know how to download a language for typing without having to pa=
+y for it? (I'm specifically looking for Arabic)
+
+Thanks!
+Kendall
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC4CEXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span style=3D'c=
+olor:#1F497D'>Go to the control panel and add a keyboard in whichever langu=
+age you want then to change back and forth use the &#8220;language bar&#822=
+1; on the lower right-hand side of the screen which should default to &#822=
+0;EN&#8221; (for English) <o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><s=
+pan style=3D'color:#1F497D'>Thanks to Nick and Phillip! <o:p></o:p></span><=
+/p><p class=3DMsoNormal><span style=3D'color:#1F497D'><o:p>&nbsp;</o:p></sp=
+an></p><div><div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;paddin=
+g:3.0pt 0in 0in 0in'><p class=3DMsoNormal><b><span style=3D'font-size:10.0p=
+t;font-family:"Tahoma","sans-serif"'>From:</span></b><span style=3D'font-si=
+ze:10.0pt;font-family:"Tahoma","sans-serif"'> helpme-bounces at lists.olin.edu=
+ [mailto:helpme-bounces at lists.olin.edu] <b>On Behalf Of </b>Kendall E. Plet=
+cher<br><b>Sent:</b> Wednesday, February 01, 2012 5:35 PM<br><b>To:</b> hel=
+pme at lists.olin.edu<br><b>Subject:</b> [Helpme] dowloaded a language onto yo=
+ur computer?<o:p></o:p></span></p></div></div><p class=3DMsoNormal><o:p>&nb=
+sp;</o:p></p><p class=3DMsoNormal>Does anyone know how to download a langua=
+ge for typing without having to pay for it? (I&#8217;m specifically looking=
+ for Arabic)<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p cla=
+ss=3DMsoNormal>Thanks!<o:p></o:p></p><p class=3DMsoNormal>Kendall<o:p></o:p=
+></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC4CEXVS01olinedu_--
+
+From Nicholas.Eyre at students.olin.edu  Wed Feb  1 18:43:22 2012
+From: Nicholas.Eyre at students.olin.edu (Nicholas Eyre)
+Date: Wed, 1 Feb 2012 18:43:22 -0500
+Subject: [Helpme] REsolved: Packing Tape
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC9E@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC9EEXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Thanks
+
+From: helpme-bounces at lists.olin.edu [mailto:helpme-bounces at lists.olin.edu] =
+On Behalf Of Nicholas Eyre
+Sent: Wednesday, February 01, 2012 5:27 PM
+To: helpme at lists.olin.edu
+Subject: [Helpme] Packing Tape
+
+Anyone have a little clear packing tape I can use?  WH Preferred.
+
+Thanks,
+Nick
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC9EEXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span style=3D'c=
+olor:#1F497D'>Thanks<o:p></o:p></span></p><p class=3DMsoNormal><span style=
+=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div style=3D'border:no=
+ne;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in 0in 0in'><p class=3DMso=
+Normal><b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"=
+'>From:</span></b><span style=3D'font-size:10.0pt;font-family:"Tahoma","san=
+s-serif"'> helpme-bounces at lists.olin.edu [mailto:helpme-bounces at lists.olin.=
+edu] <b>On Behalf Of </b>Nicholas Eyre<br><b>Sent:</b> Wednesday, February =
+01, 2012 5:27 PM<br><b>To:</b> helpme at lists.olin.edu<br><b>Subject:</b> [He=
+lpme] Packing Tape<o:p></o:p></span></p></div></div><p class=3DMsoNormal><o=
+:p>&nbsp;</o:p></p><p class=3DMsoNormal>Anyone have a little clear packing =
+tape I can use?&nbsp; WH Preferred.<o:p></o:p></p><p class=3DMsoNormal><o:p=
+>&nbsp;</o:p></p><p class=3DMsoNormal>Thanks,<o:p></o:p></p><p class=3DMsoN=
+ormal>Nick<o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AC9EEXVS01olinedu_--
+
+From Thomas.Lamar at students.olin.edu  Wed Feb  1 19:20:01 2012
+From: Thomas.Lamar at students.olin.edu (Thomas Lamar)
+Date: Wed, 1 Feb 2012 19:20:01 -0500
+Subject: [Helpme] connor needs your cans
+In-Reply-To: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A70B@EXVS01.olin.edu>
+References: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A705@EXVS01.olin.edu>
+	<DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27A70B@EXVS01.olin.edu>
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27ACF2@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27ACF2EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Resolved on both counts by a mysterious benefactor who apparently wishes to=
+ remain anonymous.
+
+From: helpme-bounces at lists.olin.edu [mailto:helpme-bounces at lists.olin.edu] =
+On Behalf Of Thomas Lamar
+Sent: Tuesday, January 31, 2012 10:36 PM
+To: helpme at lists.olin.edu
+Subject: Re: [Helpme] connor needs your cans
+
+Sorry for the confusion. I meant to ask:
+
+Do you have any good canned goods cans handy we can have? I'd like to take =
+them off your hands.
+
+
+In addition, if you have any loose string lying around, we would be glad to=
+ tighten it for you.
+
+
+From: helpme-bounces at lists.olin.edu<mailto:helpme-bounces at lists.olin.edu> [=
+mailto:helpme-bounces at lists.olin.edu]<mailto:[mailto:helpme-bounces at lists.o=
+lin.edu]> On Behalf Of Thomas Lamar
+Sent: Tuesday, January 31, 2012 10:34 PM
+To: helpme at lists.olin.edu<mailto:helpme at lists.olin.edu>
+Subject: [Helpme] connor needs your cans
+
+Do you have any good canned goods cans handy? I'd like to take them off you=
+r hands.
+
+
+In addition, if you have any loose string lying around, we would be glad to=
+ tighten it for you.
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27ACF2EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+span.EmailStyle17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.EmailStyle18
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.EmailStyle19
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text";
+	font-family:"Tahoma","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span style=3D'c=
+olor:#1F497D'>Resolved on both counts by a mysterious benefactor who appare=
+ntly wishes to remain anonymous.<o:p></o:p></span></p><p class=3DMsoNormal>=
+<span style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div><div style=
+=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in 0in 0in'><=
+p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-family:"Tahoma"=
+,"sans-serif"'>From:</span></b><span style=3D'font-size:10.0pt;font-family:=
+"Tahoma","sans-serif"'> helpme-bounces at lists.olin.edu [mailto:helpme-bounce=
+s at lists.olin.edu] <b>On Behalf Of </b>Thomas Lamar<br><b>Sent:</b> Tuesday,=
+ January 31, 2012 10:36 PM<br><b>To:</b> helpme at lists.olin.edu<br><b>Subjec=
+t:</b> Re: [Helpme] connor needs your cans<o:p></o:p></span></p></div></div=
+><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><span style=
+=3D'color:#1F497D'>Sorry for the confusion. I meant to ask:<o:p></o:p></spa=
+n></p><p class=3DMsoNormal><span style=3D'color:#1F497D'><o:p>&nbsp;</o:p><=
+/span></p><p class=3DMsoNormal>Do you have any good canned goods cans handy=
+ we can have? I&#8217;d like to take them off your hands.<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:=
+p></p><p class=3DMsoNormal>In addition, if you have any loose string lying =
+around, we would be glad to tighten it for you.<o:p></o:p></p><p class=3DMs=
+oNormal><span style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><p class=
+=3DMsoNormal><span style=3D'color:#1F497D'><o:p>&nbsp;</o:p></span></p><div=
+><div style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0in=
+ 0in 0in'><p class=3DMsoNormal><b><span style=3D'font-size:10.0pt;font-fami=
+ly:"Tahoma","sans-serif"'>From:</span></b><span style=3D'font-size:10.0pt;f=
+ont-family:"Tahoma","sans-serif"'> <a href=3D"mailto:helpme-bounces at lists.o=
+lin.edu">helpme-bounces at lists.olin.edu</a> <a href=3D"mailto:[mailto:helpme=
+-bounces at lists.olin.edu]">[mailto:helpme-bounces at lists.olin.edu]</a> <b>On =
+Behalf Of </b>Thomas Lamar<br><b>Sent:</b> Tuesday, January 31, 2012 10:34 =
+PM<br><b>To:</b> <a href=3D"mailto:helpme at lists.olin.edu">helpme at lists.olin=
+.edu</a><br><b>Subject:</b> [Helpme] connor needs your cans<o:p></o:p></spa=
+n></p></div></div><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoN=
+ormal>Do you have any good canned goods cans handy? I&#8217;d like to take =
+them off your hands.<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></=
+p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>In additio=
+n, if you have any loose string lying around, we would be glad to tighten i=
+t for you.<o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27ACF2EXVS01olinedu_--
+
+From Rui.Wang at students.olin.edu  Wed Feb  1 19:47:08 2012
+From: Rui.Wang at students.olin.edu (Rui Wang)
+Date: Wed, 1 Feb 2012 19:47:08 -0500
+Subject: [Helpme] plants in WH
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AD17@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AD17EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Does anyone know where the plants on WH1 went to?
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AD17EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Does anyone know=
+ where the plants on WH1 went to?<o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AD17EXVS01olinedu_--
+
+From Jenny.Ma at students.olin.edu  Wed Feb  1 20:01:21 2012
+From: Jenny.Ma at students.olin.edu (Jenny Ma)
+Date: Wed, 1 Feb 2012 20:01:21 -0500
+Subject: [Helpme] EH Laundry Room Card Reader
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AD33@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AD33EXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+So when I swiped my card, it said I have $437.50 on my card. I just did a l=
+ot of laundry and the amount didn't change. I also checked my onecard onlin=
+e and it currently has $1.22 on it.
+
+Has anyone else had this problem using the EH laundry room? Is there anothe=
+r way to check how much money I have on my card?
+
+-Jenny
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AD33EXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:PMingLiU;
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@PMingLiU";
+	panose-1:2 2 5 0 0 0 0 0 0 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>So when I swiped=
+ my card, it said I have $437.50 on my card. I just did a lot of laundry an=
+d the amount didn&#8217;t change. I also checked my onecard online and it c=
+urrently has $1.22 on it. <o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</=
+o:p></p><p class=3DMsoNormal>Has anyone else had this problem using the EH =
+laundry room? Is there another way to check how much money I have on my car=
+d?<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNo=
+rmal>-Jenny<o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AD33EXVS01olinedu_--
+
+From Elena.Koukina at students.olin.edu  Wed Feb  1 20:14:18 2012
+From: Elena.Koukina at students.olin.edu (Elena Koukina)
+Date: Wed, 1 Feb 2012 20:14:18 -0500
+Subject: [Helpme] controls hw
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AD4F@EXVS01.olin.edu>
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AD4FEXVS01olinedu_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+If you are in controls, do you mind telling me the topics of  FPE Chapter 1=
+ and Chapter 2, sections 2.1 to 2.3. I don't have the book yet so I was goi=
+ng to just look them up online. Also, if you are done with the reading and =
+I could borrow your book, that would be great too.
+Thanks,
+Elena
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AD4FEXVS01olinedu_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><META HTTP-EQUIV=3D"Content-Type" CONTENT=
+=3D"text/html; charset=3Dus-ascii"><meta name=3DGenerator content=3D"Micros=
+oft Word 14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DEN-US link=3Dblue vli=
+nk=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Hello, <o:p></o:=
+p></p><p class=3DMsoNormal>If you are in controls, do you mind telling me t=
+he topics of <span class=3Dapple-converted-space><span style=3D'font-size:9=
+.0pt;font-family:"Verdana","sans-serif";color:black'>&nbsp;</span></span><s=
+pan style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif";color:black=
+'>FPE Chapter 1 and Chapter 2, sections 2.1 to 2.3. I don&#8217;t have the =
+book yet so I was going to just look them up online. Also, if you are done =
+with the reading and I could borrow your book, that would be great too. <o:=
+p></o:p></span></p><p class=3DMsoNormal><span style=3D'font-size:9.0pt;font=
+-family:"Verdana","sans-serif";color:black'>Thanks,<o:p></o:p></span></p><p=
+ class=3DMsoNormal><span style=3D'font-size:9.0pt;font-family:"Verdana","sa=
+ns-serif";color:black'>Elena</span><o:p></o:p></p></div></body></html>=
+
+--_000_DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AD4FEXVS01olinedu_--
+
+From Lyra.Silverwolf at students.olin.edu  Wed Feb  1 20:28:57 2012
+From: Lyra.Silverwolf at students.olin.edu (Lyra Silverwolf)
+Date: Wed, 1 Feb 2012 20:28:57 -0500
+Subject: [Helpme] EH Laundry Room Card Reader
+In-Reply-To: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AD33@EXVS01.olin.edu>
+References: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AD33@EXVS01.olin.edu>
+Message-ID: <62816C0A-72A2-4B86-99D8-EFBCFD8AD861@students.olin.edu>
+
+--_000_62816C0A72A24B8699D8EFBCFD8AD861studentsolinedu_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+Actually the laundry machines in WH2 are doing this too, so it might be a c=
+ard-reader-wide error that will have to wait till tomorrow to be resolved.
+
+On Feb 1, 2012, at 8:01 PM, Jenny Ma wrote:
+
+So when I swiped my card, it said I have $437.50 on my card. I just did a l=
+ot of laundry and the amount didn=92t change. I also checked my onecard onl=
+ine and it currently has $1.22 on it.
+
+Has anyone else had this problem using the EH laundry room? Is there anothe=
+r way to check how much money I have on my card?
+
+-Jenny
+_______________________________________________
+Helpme mailing list
+Helpme at lists.olin.edu<mailto:Helpme at lists.olin.edu>
+https://lists.olin.edu/mailman/listinfo/helpme
+
+
+--_000_62816C0A72A24B8699D8EFBCFD8AD861studentsolinedu_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><base href=3D"x-msg://199/"></head><body style=3D"word-wrap: br=
+eak-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space; =
+">Actually the laundry machines in WH2 are doing this too, so it might be a=
+ card-reader-wide error that will have to wait till tomorrow to be resolved=
+.<div><br><div><div>On Feb 1, 2012, at 8:01 PM, Jenny Ma wrote:</div><br cl=
+ass=3D"Apple-interchange-newline"><blockquote type=3D"cite"><span class=3D"=
+Apple-style-span" style=3D"border-collapse: separate; font-family: Palatino=
+; font-style: normal; font-variant: normal; font-weight: normal; letter-spa=
+cing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; te=
+xt-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-=
+spacing: 0px; -webkit-border-horizontal-spacing: 0px; -webkit-border-vertic=
+al-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-siz=
+e-adjust: auto; -webkit-text-stroke-width: 0px; font-size: medium; "><div l=
+ang=3D"EN-US" link=3D"blue" vlink=3D"purple"><div class=3D"WordSection1" st=
+yle=3D"page: WordSection1; "><div style=3D"margin-top: 0in; margin-right: 0=
+in; margin-left: 0in; margin-bottom: 0.0001pt; font-size: 11pt; font-family=
+: Calibri, sans-serif; ">So when I swiped my card, it said I have $437.50 o=
+n my card. I just did a lot of laundry and the amount didn=92t change. I al=
+so checked my onecard online and it currently has $1.22 on it.<o:p></o:p></=
+div><div style=3D"margin-top: 0in; margin-right: 0in; margin-left: 0in; mar=
+gin-bottom: 0.0001pt; font-size: 11pt; font-family: Calibri, sans-serif; ">=
+<o:p>&nbsp;</o:p></div><div style=3D"margin-top: 0in; margin-right: 0in; ma=
+rgin-left: 0in; margin-bottom: 0.0001pt; font-size: 11pt; font-family: Cali=
+bri, sans-serif; ">Has anyone else had this problem using the EH laundry ro=
+om? Is there another way to check how much money I have on my card?<o:p></o=
+:p></div><div style=3D"margin-top: 0in; margin-right: 0in; margin-left: 0in=
+; margin-bottom: 0.0001pt; font-size: 11pt; font-family: Calibri, sans-seri=
+f; "><o:p>&nbsp;</o:p></div><div style=3D"margin-top: 0in; margin-right: 0i=
+n; margin-left: 0in; margin-bottom: 0.0001pt; font-size: 11pt; font-family:=
+ Calibri, sans-serif; ">-Jenny<o:p></o:p></div></div>______________________=
+_________________________<br>Helpme mailing list<br><a href=3D"mailto:Helpm=
+e at lists.olin.edu" style=3D"color: blue; text-decoration: underline; ">Helpm=
+e at lists.olin.edu</a><br><a href=3D"https://lists.olin.edu/mailman/listinfo/=
+helpme" style=3D"color: blue; text-decoration: underline; ">https://lists.o=
+lin.edu/mailman/listinfo/helpme</a><br></div></span></blockquote></div><br>=
+</div></body></html>=
+
+--_000_62816C0A72A24B8699D8EFBCFD8AD861studentsolinedu_--
+
+From Adriana.Garties at students.olin.edu  Wed Feb  1 20:28:16 2012
+From: Adriana.Garties at students.olin.edu (Adriana Garties)
+Date: Wed, 1 Feb 2012 20:28:16 -0500
+Subject: [Helpme] claim your plants
+In-Reply-To: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4CD18949@EXVS01.olin.edu>
+References: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4CD18949@EXVS01.olin.edu>
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4CD18977@EXVS01.olin.edu>
+
+Moved the plants to my room so that I can water them more easily.  If you suddenly realize you have a plant you forgot about, you can pick it up from me in EH413.
+________________________________________
+From: helpme-bounces at lists.olin.edu [helpme-bounces at lists.olin.edu] On Behalf Of Adriana Garties
+Sent: Sunday, January 29, 2012 6:29 PM
+To: helpme at lists.olin.edu
+Subject: [Helpme] claim your plants
+
+Hi all.
+
+There are a bunch of plants still in WH1 and most look like they haven't been watered.  I'm planning on watering them until this Wednesday then relocating (stealing) any plants that don't get picked up.
+If you're taking care of your plant but leaving it there for the sun or something then let me know and I promise to leave it alone.  I just want to take the abandoned ones so that they don't die.
+
+Thanks!
+-Adriana
+_______________________________________________
+Helpme mailing list
+Helpme at lists.olin.edu
+https://lists.olin.edu/mailman/listinfo/helpme
+
+From Kai.Austin at students.olin.edu  Wed Feb  1 21:04:02 2012
+From: Kai.Austin at students.olin.edu (Kai Austin)
+Date: Wed, 1 Feb 2012 21:04:02 -0500
+Subject: [Helpme] Question Stack Numero Ni (pick which ever you can answer)
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27ADAB@EXVS01.olin.edu>
+
+Because I have a lot, and while spamming is fun, I would like to avoid it
+
+1) Is there some sort of way to have a warning screen pop up for certain printers (or a name other than its ID)?
+Like, "Hey Idiot - this is the poster printer" or "Do you really want to walk up to the 4th floor of the AC at 3 am?" Maybe not exact, but just something to double check your mental state after a few caffeine shots. Because it would be very useful....
+
+2)  Looking to do a passionate pursuit this semester. Is there a good person to talk to about it/them? Specifically some Asian language (Japanese, but considering others) and/or photoshop-animation stuff.
+
+3) Say non-hypothetically I thought Olin needed a swing set - who would I talk to/what would I need to do/who would seriously be interested in helping? (because I know people who have entertained the idea, but not sure how serious they are about it)
+
+4) Would there be much use for a "rides" list that can be used in substitute for HelpMe? Not sure if I would use it anytime soon (other people might), but half the email that shows up involves the word Eliot or some need of a car. While it is useful in my inspiration to actually get on, a different list might help to reduce mail bulk. Might also be useful for people who can give rides but do not want to subscribe to HelpMe.
+
+
+And a quick [HelpYou] Because it is apparently not common knowledge and there has been some awkward confusion:
+I am - in very many ways - a guy. O.o I know right? Funny how that happens...
+
+
+From Matthew.Rush at students.olin.edu  Wed Feb  1 22:23:34 2012
+From: Matthew.Rush at students.olin.edu (Matthew J. Rush)
+Date: Wed, 1 Feb 2012 22:23:34 -0500
+Subject: [Helpme] French Press
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D01748C@EXVS01.olin.edu>
+
+Does anyone have one that I can borrow for a night?
+
+Thanks!
+
+Matt
+
+From Hannah.Sarver at students.olin.edu  Wed Feb  1 22:36:22 2012
+From: Hannah.Sarver at students.olin.edu (Hannah B. Sarver)
+Date: Wed, 1 Feb 2012 22:36:22 -0500
+Subject: [Helpme] REsolved: French Press
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AE51@EXVS01.olin.edu>
+
+He says it's resolved.
+
+-----Original Message-----
+From: helpme-bounces at lists.olin.edu [mailto:helpme-bounces at lists.olin.edu] On Behalf Of Matthew J. Rush
+Sent: Wednesday, February 01, 2012 10:24 PM
+To: helpme at lists.olin.edu
+Subject: [Helpme] French Press
+
+Does anyone have one that I can borrow for a night?
+
+Thanks!
+
+Matt
+_______________________________________________
+Helpme mailing list
+Helpme at lists.olin.edu
+https://lists.olin.edu/mailman/listinfo/helpme
+
+From Kai.Austin at students.olin.edu  Wed Feb  1 23:30:27 2012
+From: Kai.Austin at students.olin.edu (Kai Austin)
+Date: Wed, 1 Feb 2012 23:30:27 -0500
+Subject: [Helpme] (parsley)REsolved: Question Stack Numero Ni (pick which
+ ever you can answer)
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AEBC@EXVS01.olin.edu>
+
+3) Needs to go through THE Board.
+4) Such a list once existed but is no longer in use
+
+1 and 2 still need an answer, though I will assume #1 is a no...
+
+-----Original Message-----
+From: helpme-bounces at lists.olin.edu [mailto:helpme-bounces at lists.olin.edu] On Behalf Of Kai Austin
+Sent: Wednesday, February 01, 2012 9:04 PM
+To: helpme at lists.olin.edu
+Subject: [Helpme] Question Stack Numero Ni (pick which ever you can answer)
+
+Because I have a lot, and while spamming is fun, I would like to avoid it
+
+1) Is there some sort of way to have a warning screen pop up for certain printers (or a name other than its ID)?
+Like, "Hey Idiot - this is the poster printer" or "Do you really want to walk up to the 4th floor of the AC at 3 am?" Maybe not exact, but just something to double check your mental state after a few caffeine shots. Because it would be very useful....
+
+2)  Looking to do a passionate pursuit this semester. Is there a good person to talk to about it/them? Specifically some Asian language (Japanese, but considering others) and/or photoshop-animation stuff.
+
+3) Say non-hypothetically I thought Olin needed a swing set - who would I talk to/what would I need to do/who would seriously be interested in helping? (because I know people who have entertained the idea, but not sure how serious they are about it)
+
+4) Would there be much use for a "rides" list that can be used in substitute for HelpMe? Not sure if I would use it anytime soon (other people might), but half the email that shows up involves the word Eliot or some need of a car. While it is useful in my inspiration to actually get on, a different list might help to reduce mail bulk. Might also be useful for people who can give rides but do not want to subscribe to HelpMe.
+
+
+And a quick [HelpYou] Because it is apparently not common knowledge and there has been some awkward confusion:
+I am - in very many ways - a guy. O.o I know right? Funny how that happens...
+
+
+From Christopher.Fitzhugh at students.olin.edu  Wed Feb  1 23:44:19 2012
+From: Christopher.Fitzhugh at students.olin.edu (Christopher Fitzhugh)
+Date: Wed, 1 Feb 2012 23:44:19 -0500
+Subject: [Helpme] EH Laundry Room Card Reader
+In-Reply-To: <62816C0A-72A2-4B86-99D8-EFBCFD8AD861@students.olin.edu>
+References: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4D27AD33@EXVS01.olin.edu>,
+	<62816C0A-72A2-4B86-99D8-EFBCFD8AD861@students.olin.edu>
+Message-ID: <DA80C3E6C10BE94E8FCACEB239C2FEE4CA4C7DD973@EXVS01.olin.edu>
+
+WOOOOOO EVERYONE LAUNDRY WHILE THE GETTING'S GOOD
+________________________________________
+From: helpme-bounces at lists.olin.edu [helpme-bounces at lists.olin.edu] On Behalf Of Lyra Silverwolf
+Sent: Wednesday, February 01, 2012 8:28 PM
+To: Jenny Ma
+Cc: helpme at lists.olin.edu
+Subject: Re: [Helpme] EH Laundry Room Card Reader
+
+Actually the laundry machines in WH2 are doing this too, so it might be a card-reader-wide error that will have to wait till tomorrow to be resolved.
+
+On Feb 1, 2012, at 8:01 PM, Jenny Ma wrote:
+
+So when I swiped my card, it said I have $437.50 on my card. I just did a lot of laundry and the amount didn?t change. I also checked my onecard online and it currently has $1.22 on it.
+
+Has anyone else had this problem using the EH laundry room? Is there another way to check how much money I have on my card?
+
+-Jenny
+_______________________________________________
+Helpme mailing list
+Helpme at lists.olin.edu<mailto:Helpme at lists.olin.edu>
+https://lists.olin.edu/mailman/listinfo/helpme
+
+

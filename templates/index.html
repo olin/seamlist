@@ -1,0 +1,92 @@
+<!doctype html>
+
+<html>
+<head>
+<title>Seamlist</title>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>
+function search(inp) {
+	setTimeout(function () {
+		var txt = inp.value.replace(/^\s+|\s+$/).replace(/\s+/, ' ').toLowerCase()
+		if (txt.length == 0) {
+			$('div.list').show()
+		} else {
+			$('div.list').hide()
+			$('div.list h3').each(function (i, h2) {
+				if (h2.innerHTML.toLowerCase().replace(/\s+/, ' ').indexOf(txt) != -1) $(h2.parentNode).show()
+			})
+		}
+	}, 0)
+}
+</script>
+<style>
+
+h1 { margin: 20px 0 10px; font-size: 30px; }
+
+body { width: 800px; margin: 0 auto; background: #ddd; font-family: Helvetica, sans-serif; font-size: 16px; }
+h2 { padding-top: 1em; margin: 0 0 0.5em; clear: left; }
+.list { padding: 15px 10px; border: 1px solid #aaa; background: white; float: left; width: 360px; margin: 0 10px 10px 0}
+.list h3 { margin: 0 0 10px; font-size: 18px; display: inline }
+.list form button { font-size: inherit; }
+.list form { display: inline; float: right; }
+.list p { clear: right; margin-bottom: 0; }
+div.list.subscribed { border: 3px solid #fa0; background: #fec; padding: 13px 8px }
+</style>
+</head>
+<body>
+
+<!-- START FWOLIN HEADER -->
+<style>
+#fwolin-header { height: 30px; font-family: Helvetica, Helvetica Neue, Arial, sans-serif; font-size: 14px; }
+.fwolin-wrapper { position: absolute; top: 0; left: 0; width: 100%; background: #444; color: white; height: 30px; }
+.fwolin-brand { float: left; padding: 6px 100px 0 10px; height: 25px; font-weight: bold; color: #89f; }
+.fwolin-brand:hover { color: white; }
+.fwolin-status { float: right; margin: 6px 10px 0 0; height: 25px; }
+.fwolin-status a { color: #bbb; }
+</style>
+<div id="fwolin-header">
+<div class="fwolin-wrapper">
+<a href="http://fwol.in/" class="fwolin-brand">f w ol.in</a>
+<div class="fwolin-status">Logged in as {{ email }}. <a href="http://fwol.in/login/?callback=http://seamlist.fwol.in/">Logout?</a></div>
+</div>
+</div>
+<!-- END FWOLIN HEADER -->
+
+<h1>Seamlist</h1>
+<p>Your unique Seamlist password: <kbd>{{ key }}</kbd></p>
+
+<p>Filter lists: <input onkeydown="search(this)" id="filter"></p>
+<script>document.getElementById('filter').focus()</script>
+
+<h2>Subscribed lists:</h2>
+
+{% for li in subs %}
+<div class="list subscribed">
+<h3>{{ li['title'] }}</h3>
+<form method="post" action="unsubscribe">
+<button type="submit"><b>Unsubscribe</b></button><input type="hidden" name="listid" value="{{ li['id'] }}">
+</form>
+<form action="https://lists.olin.edu/mailman/private/{{ li['id'] }}/" method="post">
+<input type="hidden" name="username" value='{{ email }}'>
+<input type="hidden" name="password" value='{{ key }}'>
+<button type="submit">Archives</button>
+</form>
+<p>{{ li['description'] }}</p>
+</div>
+{% endfor %}
+
+<h2>Unsubscribed lists:</h2>
+
+{% for li in unsubs %}
+<div class="list">
+<h3>{{ li['title'] }}</h3>
+<form method="post" action="subscribe">
+<button type="submit"><b>Subscribe</b></button>
+<input type="hidden" name="listid" value="{{ li['id'] }}">
+</form>
+<p>{{ li['description'] }}</p>
+</div>
+{% endfor %}
+
+</body>
+</html>
